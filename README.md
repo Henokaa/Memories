@@ -5,6 +5,6 @@ BitNote is developed to help online learner and programmers to bookmark thoughts
 ![bit](https://user-images.githubusercontent.com/69524541/173347823-34629ff8-9c2d-482e-94f2-70eafd3c7dea.jpg)
 
 Most efficient way to take & share time-stamped code snippet while watching videos!
-Description:
-YiNote can help you easily save your ideas with online videos, and provide smooth code sharing taking experience! 
+
+BitNote can help you easily save your ideas with while watching online tutorial videos, and provide smooth code sharing experience! 
 
